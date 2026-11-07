@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>mirath-java-awl-proportional-scale</artifactId>
+  <version>1.0.0</version>
+  <name>Al-Awl Fractional Overflow Base Denominator Escalator (6->7..10, 12->13..17, 24->27)</name>
+</project>
